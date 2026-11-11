@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Majid Ali<br>Web, Android & ML Developer | Vibe Coder<br><br>I build dynamic web and Android applications, blending robust engineering with a touch of machine learning. I write my own code but also embrace "vibe coding"—leveraging AI tools when needed to streamline development and create impactful digital experiences.
+Hi, I'm Majid Ali<br>Web, Android & ML Developer | AI Assisted Coding<br><br>I build dynamic web and Android applications, blending robust engineering with a touch of machine learning. I write my own code but also embrace "vibe coding"—leveraging AI tools when needed to streamline development and create impactful digital experiences.
 
 
 ## 🌐 Socials:
